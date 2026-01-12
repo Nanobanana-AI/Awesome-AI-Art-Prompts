@@ -32,7 +32,7 @@
 > **Nanobanana Pro 模型生成**，复古胶片感洛可可少女对镜自拍。
 
 <p align="center">
-  <img src="[https://cctv.hk/wp-content/uploads/2026/01/img_1768099918_644.jpg]" width="60%">
+  <img src="https://cctv.hk/wp-content/uploads/2026/01/img_1768099918_644.jpg" width="60%">
 </p>
 
 **Prompt  / 提示词原文:**
