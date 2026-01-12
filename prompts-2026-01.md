@@ -1,10 +1,11 @@
 # 🎨 Nanobanana Featured Prompts Collection | 精选提示词库2026.01
 
 > **Disclaimer & Credits / 说明与致谢**:
+> 
 > The prompts below are **curated from the open-source community and optimized** by Nanobanana.
 > While the prompts serve as references, all images displayed here are **generated and verified** by our studio to ensure quality.
 > 本库提示词**源于网络收集并经过 Nanobanana 调优/二创**。
-> 我们保证所有提示词均经过实测，所有展示图片均为 Nanobanana 独家生成。
+> 我们保证所有提示词均经过实测，所有展示图片均为 Nanobanana Pro 独家生成。
 >
 > 🌟 **More Inspiration? Visit:** [**https://cctv.hk**](https://cctv.hk)
 
