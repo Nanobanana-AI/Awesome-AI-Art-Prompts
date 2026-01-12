@@ -21,6 +21,8 @@
 
 ```text
 参考人物面部特征：白皙透亮肤色，温柔眼眸，东亚轮廓。一位年轻女性身穿杭州丝绸改良汉服，坐在西湖断桥的石栏上。她穿着香槟金色的宋制褙子，外罩轻薄的纱质大袖衫，下着白色褶裙。她双腿自然交叠，一只手轻扶栏杆，另一只手拿着一把团扇半遮面，眼神含蓄温婉地看向镜头。背景是西湖烟雨朦胧的美景，远处是雷峰塔和层叠的山峦。柔和的阴天光线让肤色更显白皙通透。画面采用胶片质感，色调淡雅，营造江南女子的温柔韵味。左下角有瘦金体"西子遗韵"。
+```
+
 ---
 
 ## 2. Coquette Rococo Mirror Selfie | 洛可可少女对镜自拍
@@ -66,3 +68,4 @@
 "negative_prompt": "distant shot, full body shot from far away, boring pose, professional portrait setup, low resolution, blurry, bad anatomy, distorted phone, ugly hands, missing fingers, flat lighting, 3d render, anime."
 }
 }
+```
