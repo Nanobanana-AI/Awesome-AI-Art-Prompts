@@ -1,2 +1,67 @@
-# Awesome-AI-Art-Prompts
-The Ultimate Collection of High-Quality AI Art Prompts for Midjourney, Stable Diffusion &amp; Grok. Official Source: https://cctv.hk
+# 🍌 Nanobanana AI Prompts Collection | AI 提示词合集
+
+<p align="center">
+  <a href="#-english"><strong>English</strong></a> |
+  <a href="#-中文介绍"><strong>中文介绍</strong></a>
+</p>
+
+---
+
+<div id="-english"></div>
+
+## 🌟 The World's Best AI Art Prompts Library
+Welcome to the official prompt repository of **Nanobanana AI Studio**.
+We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and Grok**.
+
+👉 **Visit our Official Search Engine:** [**https://cctv.hk**](https://cctv.hk)
+
+### 🔥 Featured Prompts (Copy & Paste)
+
+**1. Cinematic Portrait (Grok / Midjourney)**
+> **Subject:** A hyper-realistic close-up of a young woman with holographic makeup...
+> **Style:** Cyberpunk, 8K Resolution, Volumetric Lighting.
+>
+> 🔗 **[Get Full Prompt & Parameters](https://cctv.hk)**
+
+**2. Commercial Product Photography**
+> **Subject:** Luxury perfume bottle on a reflective water surface...
+> **Lighting:** Softbox studio lighting, pastel tones.
+>
+> 🔗 **[Get Full Prompt & Parameters](https://cctv.hk)**
+
+---
+
+<div id="-中文介绍"></div>
+
+## 🐼 Nanobanana AI 提示词中文合集
+欢迎来到 **Nanobanana (香蕉) AI 工作室** 的官方开源仓库。
+这里汇集了全网最高质量、经过实测的 AI 绘画提示词，支持 **Midjourney V6, Stable Diffusion, Grok** 等主流模型。
+
+👉 **访问我们的中文提示词搜索引擎:** [**https://cctv.hk**](https://cctv.hk)
+
+### 🚀 为什么选择 Nanobanana?
+- **实测有效:** 所有 Prompt 均经过 V6 模型测试，拒绝乱码。
+- **中英对照:** 提供精准的中文翻译与参数解析。
+- **每日更新:** 每天更新最新的 AI 艺术灵感与风格。
+
+### 📂 热门资源 (复制即用)
+
+**1. 电影感人像 (Grok / Midjourney)**
+> **描述:** 赛博朋克风格的超写实人像，全息妆容...
+> **关键词:** 8K 分辨率, 体积光, 虚拟摄影.
+>
+> 🔗 **[获取完整提示词](https://cctv.hk)**
+
+**2. 电商产品摄影**
+> **描述:** 极简风格香水瓶拍摄，水面倒影...
+> **光效:** 柔光箱, 影棚布光, 莫兰迪色系.
+>
+> 🔗 **[获取完整提示词](https://cctv.hk)**
+
+---
+
+## 🔗 Connect With Us / 联系我们
+- **Official Website / 官网:** [cctv.hk](https://cctv.hk)
+- **GitHub:** [Nanobanana-AI](https://github.com/Nanobanana-AI)
+
+*(If you like this project, please give us a Star ⭐️! 如果觉得有用，请点个 Star 支持一下!)*
