@@ -4,7 +4,7 @@
 > The prompts below are **curated from the open-source community and optimized** by Nanobanana. While the prompts serve as references, all images displayed here are **generated and verified** by our studio to ensure quality. <br>
 本库提示词**源于网络收集并经过 Nanobanana 调优/二创**。所有提示词均经过实测，展示图片均为 Nanobanana Pro 独家生成。
 >
-> 🌟 **More Inspiration? Visit:** [**https://cctv.hk**](https://cctv.hk)
+> 🌟 **More Inspiration? Visit:** [**https://okqiyi.com**](https://okqiyi.com)
 
 ---
 
@@ -15,7 +15,7 @@
 > **Nanobanana Pro 模型演绎**，展现烟雨西湖畔江南女子的温柔韵味与东方美学。
 
 <p align="center">
-  <img src="https://cctv.hk/wp-content/uploads/2026/01/img_1768099897_405.jpg" width="60%">
+  <img src="https://okqiyi.com/wp-content/uploads/2026/01/img_1768099897_405.jpg" width="60%">
 </p>
 
 **Prompt / 提示词原文:**
@@ -33,7 +33,7 @@
 > **Nanobanana Pro 模型生成**，复古胶片感洛可可少女对镜自拍。
 
 <p align="center">
-  <img src="https://cctv.hk/wp-content/uploads/2026/01/img_1768099918_644.jpg" width="60%">
+  <img src="https://okqiyi.com/wp-content/uploads/2026/01/img_1768099918_644.jpg" width="60%">
 </p>
 
 **Prompt  / 提示词原文:**
@@ -80,7 +80,7 @@
 > Nanobanana Pro 呈现：红裙爱豆九宫格，捕捉顶级偶像的百变灵动瞬间。
 
 <p align="center">
-  <img src="https://cctv.hk/wp-content/uploads/2026/01/img_1767541490_763.jpg" width="60%">
+  <img src="https://okqiyi.com/wp-content/uploads/2026/01/img_1767541490_763.jpg" width="60%">
 </p>
 
 **Prompt  / 提示词原文:**
