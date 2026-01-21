@@ -13,7 +13,7 @@
 Welcome to the official prompt repository of **Nanobanana AI Studio**.
 We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and Grok**.
 
-👉 **Visit our Official Search Engine:** [**https://cctv.hk**](https://cctv.hk)
+👉 **Visit our Official Search Engine:** [**https://okqiyi.com**](https://okqiyi.com)
 
 ### 🔥 Featured Prompts (Copy & Paste)
 
@@ -21,13 +21,13 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 > **Subject:** A hyper-realistic close-up of a young woman with holographic makeup...
 > **Style:** Cyberpunk, 8K Resolution, Volumetric Lighting.
 >
-> 🔗 **[Get Full Prompt & Parameters](https://cctv.hk)**
+> 🔗 **[Get Full Prompt & Parameters](https://okqiyi.com)**
 
 **2. Commercial Product Photography**
 > **Subject:** Luxury perfume bottle on a reflective water surface...
 > **Lighting:** Softbox studio lighting, pastel tones.
 >
-> 🔗 **[Get Full Prompt & Parameters](https://cctv.hk)**
+> 🔗 **[Get Full Prompt & Parameters](https://okqiyi.com)**
 
 ---
 
@@ -37,7 +37,7 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 欢迎来到 **Nanobanana (香蕉) AI 工作室** 的官方开源仓库。
 这里汇集了全网最高质量、经过实测的 AI 绘画提示词，支持 **Midjourney V6, Stable Diffusion, Grok** 等主流模型。
 
-👉 **访问我们的中文提示词搜索引擎:** [**https://cctv.hk**](https://cctv.hk)
+👉 **访问我们的中文提示词搜索引擎:** [**https://okqiyi.com**](https://okqiyi.com)
 
 ### 🚀 为什么选择 Nanobanana?
 - **实测有效:** 所有 Prompt 均经过 V6 模型测试，拒绝乱码。
@@ -50,18 +50,18 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 > **描述:** 赛博朋克风格的超写实人像，全息妆容...
 > **关键词:** 8K 分辨率, 体积光, 虚拟摄影.
 >
-> 🔗 **[获取完整提示词](https://cctv.hk)**
+> 🔗 **[获取完整提示词](https://okqiyi.com)**
 
 **2. 电商产品摄影**
 > **描述:** 极简风格香水瓶拍摄，水面倒影...
 > **光效:** 柔光箱, 影棚布光, 莫兰迪色系.
 >
-> 🔗 **[获取完整提示词](https://cctv.hk)**
+> 🔗 **[获取完整提示词](https://okqiyi.com)**
 
 ---
 
 ## 🔗 Connect With Us / 联系我们
-- **Official Website / 官网:** [cctv.hk](https://cctv.hk)
+- **Official Website / 官网:** [okqiyi.com](https://okqiyi.com)
 - **GitHub:** [Nanobanana-AI](https://github.com/Nanobanana-AI)
 
 *(If you like this project, please give us a Star ⭐️! 如果觉得有用，请点个 Star 支持一下!)*
