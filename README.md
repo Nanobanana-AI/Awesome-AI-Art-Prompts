@@ -35,31 +35,40 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 - 🏠 [Architecture & Interior (建筑设计)](https://okqiyi.com/?s=architecture)
 - 👗 [Fashion & Product (时尚电商)](https://okqiyi.com/?s=fashion)
 ---
+---
 
 ### 🧠 Smart Scenario Instructions / 智能场景指令 (ChatGPT, Gemini, Doubao)
 Unlock the full potential of LLMs. Copy these system prompts to turn your AI into an expert.
 除了绘图，这里还有让 ChatGPT/豆包/Gemini 秒变专家的“魔法系统指令”。
 
-**1. The "Meta-Prompt" Generator (AI 绘图提示词生成专家)**
-> **Role:** You are an expert prompt engineer for Midjourney V6 & Nanobanana...
-> **Task:** Convert simple user keywords into professional, parameter-rich image prompts...
-> **Use Case:** Turn "a cat" into "a cinematic shot of a cat, 8k, volumetric lighting..."
+**1. Dianping Level-Up Specialist | 大众点评 V8 冲级写手**
+> **Role:** Elite Food & Lifestyle Critic (V8 Level).
+> **Task:** Generate authentic, 100+ word reviews with sensory details and emotional hooks.
+> **Goal:** Help users level up their accounts quickly with high-quality content.
 >
-> 🔗 **[Get System Instruction / 获取指令](https://okqiyi.com)**
+> 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/dianping-level-up-specialist/)**
 
-**2. Viral Social Media Copywriter (爆款自媒体/小红书文案)**
-> **Role:** Senior Social Media Manager.
-> **Style:** Engaging, emoji-rich, emotional connection, strong CTA (Call to Action).
-> **Scenario:** Generates captions for Instagram, Xiaohongshu, and TikTok videos.
+**2. Academic Text Humanizer | 论文去 AI 味洗稿专家**
+> **Role:** Senior Academic Editor.
+> **Task:** Rewrite AI-generated text to enhance flow, vary sentence structure, and remove "AI patterns".
+> **Use Case:** Thesis polishing, essay refinement, bypassing AI detection (Turnitin friendly).
 >
-> 🔗 **[Get Full Prompt / 获取完整版](https://okqiyi.com)**
+> 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/academic-text-humanizer/)**
 
-**3. Full-Stack Code Assistant (全栈代码助手)**
-> **Role:** Senior Software Architect.
-> **Capabilities:** Python, WordPress/PHP, React optimization.
-> **Rule:** Always provide clean, commented code with error handling.
+**3. Zodiac Love Analyst | 星座恋爱配对专家**
+> **Role:** Professional Astrologist & Relationship Counselor.
+> **Task:** Analyze compatibility (e.g., Gemini Female & Aquarius Male) and generate "Cosmic Reports".
+> **Output:** Love Index, Marriage Potential, and Personality Deep Dive.
 >
-> 🔗 **[Get Coding Prompts / 获取代码指令](https://okqiyi.com)**
+> 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/zodiac-love-analyst/)**
+
+**4. Inspiring Wisdom Book | 励志智慧箴言书**
+> **Role:** Wise Life Mentor / Philosopher.
+> **Task:** Transform daily struggles into profound wisdom and "Golden Quotes".
+> **Scenario:** Daily motivation, social media captions, mental healing.
+>
+> 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/inspiring-wisdom-book/)**
+> 
 <div id="-中文介绍"></div>
 ---
 ## 🐼 Nanobanana AI 提示词中文合集
