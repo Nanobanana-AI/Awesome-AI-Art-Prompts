@@ -1,7 +1,7 @@
 # 🍌 Nanobanana AI Prompts Collection | AI 提示词合集
 
 <p align="center">
-  <a href="#-english"><strong>English</strong></a> |
+  <a href="#-english"><strong>English Introduction</strong></a> |
   <a href="#-中文介绍"><strong>中文介绍</strong></a>
 </p>
 
@@ -15,7 +15,7 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 
 👉 **Visit our Official Search Engine:** [**https://okqiyi.com**](https://okqiyi.com)
 
-### 🔥 Featured Prompts (Copy & Paste)
+### 🔥 Featured Art Prompts (Copy & Paste)
 
 **1. Cinematic Portrait (Grok / Midjourney)**
 > **Subject:** A hyper-realistic close-up of a young woman with holographic makeup...
@@ -34,43 +34,41 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 - 🎨 [Anime & Illustration (动漫插画)](https://okqiyi.com/?s=anime)
 - 🏠 [Architecture & Interior (建筑设计)](https://okqiyi.com/?s=architecture)
 - 👗 [Fashion & Product (时尚电商)](https://okqiyi.com/?s=fashion)
----
+
 ---
 
-### 🧠 Smart Scenario Instructions / 智能场景指令 (ChatGPT, Gemini, Doubao)
-Unlock the full potential of LLMs. Copy these system prompts to turn your AI into an expert.
-除了绘图，这里还有让 ChatGPT/豆包/Gemini 秒变专家的“魔法系统指令”。
+### 🧠 Smart Scenario Instructions / 智能场景指令
+**Turn your ChatGPT / Gemini / Doubao into an Expert instantly.**
+**让你的豆包/ChatGPT/Gemini 秒变行业专家。**
 
 **1. Dianping Level-Up Specialist | 大众点评 V8 冲级写手**
-> **Role:** Elite Food & Lifestyle Critic (V8 Level).
 > **Task:** Generate authentic, 100+ word reviews with sensory details and emotional hooks.
-> **Goal:** Help users level up their accounts quickly with high-quality content.
+> **目标:** 生成真实感爆棚的探店点评，助你快速升级 V8 账号。
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/dianping-level-up-specialist/)**
 
 **2. Academic Text Humanizer | 论文去 AI 味洗稿专家**
-> **Role:** Senior Academic Editor.
-> **Task:** Rewrite AI-generated text to enhance flow, vary sentence structure, and remove "AI patterns".
-> **Use Case:** Thesis polishing, essay refinement, bypassing AI detection (Turnitin friendly).
+> **Task:** Rewrite AI-generated text to enhance flow and remove "AI patterns" (Turnitin friendly).
+> **目标:** 专治论文 AI 味过重，优化语流，降低查重率。
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/academic-text-humanizer/)**
 
 **3. Zodiac Love Analyst | 星座恋爱配对专家**
-> **Role:** Professional Astrologist & Relationship Counselor.
 > **Task:** Analyze compatibility (e.g., Gemini Female & Aquarius Male) and generate "Cosmic Reports".
-> **Output:** Love Index, Marriage Potential, and Personality Deep Dive.
+> **目标:** 输入星座性别，一键生成恋爱/婚姻指数及性格深度解析。
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/zodiac-love-analyst/)**
 
 **4. Inspiring Wisdom Book | 励志智慧箴言书**
-> **Role:** Wise Life Mentor / Philosopher.
 > **Task:** Transform daily struggles into profound wisdom and "Golden Quotes".
-> **Scenario:** Daily motivation, social media captions, mental healing.
+> **目标:** 将日常烦恼转化为富有哲理的治愈金句，朋友圈文案神器。
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/inspiring-wisdom-book/)**
-> 
-<div id="-中文介绍"></div>
+
 ---
+
+<div id="-中文介绍"></div>
+
 ## 🐼 Nanobanana AI 提示词中文合集
 欢迎来到 **Nanobanana (香蕉) AI 工作室** 的官方开源仓库。
 这里汇集了全网最高质量、经过实测的 AI 绘画提示词，支持 **Midjourney V6, Stable Diffusion, Grok** 等主流模型。
@@ -82,7 +80,7 @@ Unlock the full potential of LLMs. Copy these system prompts to turn your AI int
 - **中英对照:** 提供精准的中文翻译与参数解析。
 - **每日更新:** 每天更新最新的 AI 艺术灵感与风格。
 
-### 📂 热门资源 (复制即用)
+### 📂 热门绘图资源 (复制即用)
 
 **1. 电影感人像 (Nanobanana / Grok / Midjourney)**
 > **描述:** 赛博朋克风格的超写实人像，全息妆容...
