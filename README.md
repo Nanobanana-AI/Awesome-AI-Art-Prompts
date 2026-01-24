@@ -29,6 +29,11 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 >
 > 🔗 **[Get Full Prompt & Parameters](https://okqiyi.com)**
 
+### 🏷️ Browse by Category / 按分类浏览
+- 👩‍🎤 [Realistic Portrait (写实人像)](https://okqiyi.com/?s=portrait)
+- 🎨 [Anime & Illustration (动漫插画)](https://okqiyi.com/?s=anime)
+- 🏠 [Architecture & Interior (建筑设计)](https://okqiyi.com/?s=architecture)
+- 👗 [Fashion & Product (时尚电商)](https://okqiyi.com/?s=fashion)
 ---
 
 <div id="-中文介绍"></div>
