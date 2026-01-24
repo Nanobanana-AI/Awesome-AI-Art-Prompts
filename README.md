@@ -42,25 +42,25 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 **让你的豆包/ChatGPT/Gemini 秒变行业专家。**
 
 **1. Dianping Level-Up Specialist | 大众点评 V8 冲级写手**
-> **Task:** Generate authentic, 100+ word reviews with sensory details and emotional hooks.
+> **Task:** Generate authentic, 100+ word reviews with sensory details and emotional hooks.<br>
 > **目标:** 生成真实感爆棚的探店点评，助你快速升级 V8 账号。
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/dianping-level-up-specialist/)**
 
 **2. Academic Text Humanizer | 论文去 AI 味洗稿专家**
-> **Task:** Rewrite AI-generated text to enhance flow and remove "AI patterns" (Turnitin friendly).
+> **Task:** Rewrite AI-generated text to enhance flow and remove "AI patterns" (Turnitin friendly).<br>
 > **目标:** 专治论文 AI 味过重，优化语流，降低查重率。
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/academic-text-humanizer/)**
 
 **3. Zodiac Love Analyst | 星座恋爱配对专家**
-> **Task:** Analyze compatibility (e.g., Gemini Female & Aquarius Male) and generate "Cosmic Reports".
+> **Task:** Analyze compatibility (e.g., Gemini Female & Aquarius Male) and generate "Cosmic Reports".<br>
 > **目标:** 输入星座性别，一键生成恋爱/婚姻指数及性格深度解析。
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/zodiac-love-analyst/)**
 
 **4. Inspiring Wisdom Book | 励志智慧箴言书**
-> **Task:** Transform daily struggles into profound wisdom and "Golden Quotes".
+> **Task:** Transform daily struggles into profound wisdom and "Golden Quotes".<br>
 > **目标:** 将日常烦恼转化为富有哲理的治愈金句，朋友圈文案神器。
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/inspiring-wisdom-book/)**
