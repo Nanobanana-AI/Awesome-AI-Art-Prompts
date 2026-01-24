@@ -38,7 +38,7 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 ---
 
 ### 🧠 Smart Scenario Instructions / 智能场景指令
-**Turn your ChatGPT / Gemini / Doubao into an Expert instantly.**
+**Turn your ChatGPT / Gemini / Doubao into an Expert instantly.**<br>
 **让你的豆包/ChatGPT/Gemini 秒变行业专家。**
 
 **1. Dianping Level-Up Specialist | 大众点评 V8 冲级写手**
