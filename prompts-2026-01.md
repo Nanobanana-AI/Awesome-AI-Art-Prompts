@@ -8,7 +8,7 @@
 ## 4. Pure Luminous | 清透逆光温柔回眸
 
 > **Concept Description / 作品说明**<br>
-> **Nanobanana Pro 模型生成**，细腻呈现逆光下的清透肌肤与纯真神态。
+> **Nanobanana Pro 模型生成**，细腻呈现逆光下的清透肌肤与纯真神态。<br>
 > Concept Description: Capturing an intimate and ethereal moment bathed in dazzling backlight, highlighting the natural skin texture and innocent charm of the subject.<br>
 
 <p align="center">
@@ -21,11 +21,10 @@
 A cinematic, intimate portrait, taken in front of a large, bright window. A beautiful East Asian woman, with the visual appeal of a K-pop girl group member, 175cm tall and weighing 50kg, possesses a perfectly proportioned figure, with a full bust and shapely hips. She leans against the window frame in an innocent profile, glancing back at the camera with a gentle, shy smile. She wears a white cotton low-cut tank top. Strong sunlight streams down from behind her, penetrating her loosely styled hair and creating a dazzling halo around her shoulders. The image is sharply focused, clearly showing the fine downy hair on her cheeks and nose under the backlight. Her skin is fair and translucent, with a healthy glow. The edges of the white cotton fabric shimmer slightly in the sunlight. The overall atmosphere is authentic and intimate, achieved through high-key lighting supplemented with reflectors to ensure her face is bright yet soft.
 ```
 ---
----
 ## 3. Crimson Icon | 九宫格海马体精致写真
 
 > **Concept Description / 作品说明**<br>
-> Nanobanana Pro 呈现：红裙爱豆九宫格，捕捉顶级偶像的百变灵动瞬间。
+> Nanobanana Pro 呈现：红裙爱豆九宫格，捕捉顶级偶像的百变灵动瞬间。<br>
 > A vibrant 3×3 study of K-pop charisma, capturing the multifaceted allure of a muse in red. From playful winks to radiant smiles, a portrait of flawless digital stardom.  <br>
 
 
@@ -55,8 +54,9 @@ Flawless, bright, and dynamic studio lighting, mimicking a high-budget music vid
 ## 2. Coquette Rococo Mirror Selfie | 洛可可少女对镜自拍
 
 > **Concept Description / 作品说明**<br>
+> **Nanobanana Pro 模型生成**，复古胶片感洛可可少女对镜自拍。<br>
 > A candid high-angle mirror selfie capturing a rebellious coquette aesthetic within a lavish Rococo setting, featuring vintage Fujifilm tones and a playful attitude. <br>
-> **Nanobanana Pro 模型生成**，复古胶片感洛可可少女对镜自拍。
+
 
 <p align="center">
   <img src="https://okqiyi.com/wp-content/uploads/2026/01/img_1768099918_644.jpg" width="60%">
@@ -103,8 +103,9 @@ Flawless, bright, and dynamic studio lighting, mimicking a high-budget music vid
 ## 1. Jiangnan Gentle Grace | 江南女子温柔韵味
 
 > **Concept Description / 作品说明**<br>
+> **Nanobanana Pro 模型演绎**，展现烟雨西湖畔江南女子的温柔韵味与东方美学。<br>
 > *A poetic portrait capturing the gentle charm of a Jiangnan woman in Song-style Hanfu, set against the misty ethereal backdrop of West Lake with film photography texture.*<br>
-> **Nanobanana Pro 模型演绎**，展现烟雨西湖畔江南女子的温柔韵味与东方美学。
+
 
 <p align="center">
   <img src="https://okqiyi.com/wp-content/uploads/2026/01/img_1768099897_405.jpg" width="60%">
