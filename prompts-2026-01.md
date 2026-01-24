@@ -5,6 +5,156 @@
 本库提示词**源于网络收集并经过 Nanobanana 调优/二创**。所有提示词均经过实测，展示图片均为 Nanobanana Pro 独家生成。
 >
 > 🌟 **More Inspiration? Visit:** [**https://okqiyi.com**](https://okqiyi.com)
+> ## 5. Jakarta Night Candid | 雅加达咖啡馆随拍
+
+> **Concept Description / 作品说明**<br>
+> **Nanobanana Pro 模型生成**，苦恼AI生成图太假、缺乏真实生活质感？Nanobanana Pro 还原雅加达屋顶咖啡馆的真实夜间抓拍。<br>
+> Concept Description: Capturing an authentic and raw candid moment at a Jakarta rooftop café, featuring a realistic night ambiance and genuine smartphone photography aesthetic. <br>
+
+<p align="center">
+  <img src="https://okqiyi.com/wp-content/uploads/2026/01/img_1768395999_711.jpg" width="60%">
+</p>
+
+**Prompt  / 提示词原文:**
+
+```text
+{
+"task": "photo_editing",
+"instruction": "Edit the photo according to the description without changing the face in the slightest. The face must remain 100% authentic and identical to the original.",
+"photo_style": {
+"type": "candid_smartphone_photo",
+"aspect_ratio": "3:4",
+"time": "night",
+"device": "low-end Android phone",
+"shooting_style": "handheld, rushed, imperfect",
+"quality": "realistic, unpolished"
+},
+"subject": {
+"gender": "female",
+"age_appearance": "early 20s",
+"ethnicity": "Indonesian",
+"expression": {
+"mood": "soft, youthful, naturally cute",
+"face": "relaxed",
+"lips": "gently closed",
+"eyes": "calm and warm",
+"smile": "none"
+},
+"vibe": [
+"girl-next-door",
+"young",
+"fresh",
+"everyday",
+"not model-like",
+"not glamorous",
+"not influencer",
+"not styled"
+]
+},
+"pose_and_action": {
+"seating": "sitting casually",
+"moment": "unplanned, unposed",
+"hands": {
+"one_hand": "holding a glass of drink",
+"other_hand": "using phone"
+},
+"attention": "focused on her phone, unaware of camera"
+},
+"clothing_and_appearance": {
+"top": {
+"type": "plain long-sleeved top",
+"color": "black",
+"style": "simple, fitted, no patterns"
+},
+"hair": {
+"length": "waist-length",
+"color": "brown",
+"texture": "smooth, straight, natural",
+"style": "flowing freely"
+},
+"skin": {
+"look": "clean, youthful, lightly smooth",
+"details": "subtle pores, mild natural variation",
+"health": "healthy and soft",
+"restrictions": [
+"no beauty filter",
+"no retouching",
+"no AI-polished skin",
+"no plastic look"
+]
+}
+},
+"camera_angle_and_framing": {
+"angle": "slightly from the side and slightly behind",
+"perspective": "authentic candid",
+"framing": "medium-wide",
+"visibility": "upper body and part of table visible",
+"composition": "subject slightly smaller in frame, minor imbalance"
+},
+"lighting": {
+"type": "harsh and imperfect",
+"sources": [
+"rooftop café lights",
+"city street lights"
+],
+"effects": [
+"uneven exposure",
+"blown highlights",
+"deep shadows",
+"imperfect white balance"
+]
+},
+"focus_and_quality": {
+"focus": "slightly more on subject",
+"background_blur": "soft blur due to low light and camera limitations",
+"restrictions": [
+"not portrait mode blur",
+"not artificial bokeh"
+],
+"artifacts": [
+"visible digital noise",
+"grain",
+"slight motion blur",
+"imperfect focus accuracy",
+"limited dynamic range"
+]
+},
+"background": {
+"location": "Jakarta rooftop café",
+"elements": [
+"tables",
+"railing",
+"other people casually visible",
+"distant Jakarta buildings",
+"city lights"
+]
+},
+"objects": {
+"table_items": [
+"iPhone 17 Pro Max",
+"part of a woman’s handbag"
+],
+"accessories": {
+"wrist": "latest Apple Watch, naturally visible"
+}
+},
+"overall_feeling": [
+"normal",
+"intimate",
+"quiet",
+"authentic",
+"slightly messy",
+"realistic",
+"non-aesthetic",
+"non-cinematic",
+"not staged",
+"not AI-looking",
+"taken by her boyfriend"
+]
+}
+
+```
+---
 ## 4. Pure Luminous | 清透逆光温柔回眸
 
 > **Concept Description / 作品说明**<br>
