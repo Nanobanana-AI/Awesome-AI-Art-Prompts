@@ -35,7 +35,6 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 - 🏠 [Architecture & Interior (建筑设计)](https://okqiyi.com/?s=architecture)
 - 👗 [Fashion & Product (时尚电商)](https://okqiyi.com/?s=fashion)
 ---
----
 
 ### 🧠 Smart Scenario Instructions / 智能场景指令 (ChatGPT, Gemini, Doubao)
 Unlock the full potential of LLMs. Copy these system prompts to turn your AI into an expert.
@@ -62,7 +61,7 @@ Unlock the full potential of LLMs. Copy these system prompts to turn your AI int
 >
 > 🔗 **[Get Coding Prompts / 获取代码指令](https://okqiyi.com)**
 <div id="-中文介绍"></div>
-
+---
 ## 🐼 Nanobanana AI 提示词中文合集
 欢迎来到 **Nanobanana (香蕉) AI 工作室** 的官方开源仓库。
 这里汇集了全网最高质量、经过实测的 AI 绘画提示词，支持 **Midjourney V6, Stable Diffusion, Grok** 等主流模型。
