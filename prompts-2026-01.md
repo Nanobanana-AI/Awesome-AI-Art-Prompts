@@ -9,7 +9,7 @@
 ---
 <br>
 > 
-> ## 5. Jakarta Night Candid | 雅加达咖啡馆随拍
+## 5. Jakarta Night Candid | 雅加达咖啡馆随拍
 
 > **Concept Description / 作品说明**<br>
 > **Nanobanana Pro 模型生成**，苦恼AI生成图太假、缺乏真实生活质感？Nanobanana Pro 还原雅加达屋顶咖啡馆的真实夜间抓拍。<br>
