@@ -5,13 +5,29 @@
 本库提示词**源于网络收集并经过 Nanobanana 调优/二创**。所有提示词均经过实测，展示图片均为 Nanobanana Pro 独家生成。
 >
 > 🌟 **More Inspiration? Visit:** [**https://okqiyi.com**](https://okqiyi.com)
+## 4. Pure Luminous | 清透逆光温柔回眸
 
+> **Concept Description / 作品说明**<br>
+> **Nanobanana Pro 模型生成**，细腻呈现逆光下的清透肌肤与纯真神态。
+> Concept Description: Capturing an intimate and ethereal moment bathed in dazzling backlight, highlighting the natural skin texture and innocent charm of the subject.<br>
+
+<p align="center">
+  <img src="https://okqiyi.com/wp-content/uploads/2026/01/img_1768395979_245.jpg" width="60%">
+</p>
+
+**Prompt  / 提示词原文:**
+
+```text
+A cinematic, intimate portrait, taken in front of a large, bright window. A beautiful East Asian woman, with the visual appeal of a K-pop girl group member, 175cm tall and weighing 50kg, possesses a perfectly proportioned figure, with a full bust and shapely hips. She leans against the window frame in an innocent profile, glancing back at the camera with a gentle, shy smile. She wears a white cotton low-cut tank top. Strong sunlight streams down from behind her, penetrating her loosely styled hair and creating a dazzling halo around her shoulders. The image is sharply focused, clearly showing the fine downy hair on her cheeks and nose under the backlight. Her skin is fair and translucent, with a healthy glow. The edges of the white cotton fabric shimmer slightly in the sunlight. The overall atmosphere is authentic and intimate, achieved through high-key lighting supplemented with reflectors to ensure her face is bright yet soft.
+```
+---
 ---
 ## 3. Crimson Icon | 九宫格海马体精致写真
 
 > **Concept Description / 作品说明**<br>
-> A vibrant 3×3 study of K-pop charisma, capturing the multifaceted allure of a muse in red. From playful winks to radiant smiles, a portrait of flawless digital stardom.  <br>
 > Nanobanana Pro 呈现：红裙爱豆九宫格，捕捉顶级偶像的百变灵动瞬间。
+> A vibrant 3×3 study of K-pop charisma, capturing the multifaceted allure of a muse in red. From playful winks to radiant smiles, a portrait of flawless digital stardom.  <br>
+
 
 <p align="center">
   <img src="https://okqiyi.com/wp-content/uploads/2026/01/img_1767541490_763.jpg" width="60%">
