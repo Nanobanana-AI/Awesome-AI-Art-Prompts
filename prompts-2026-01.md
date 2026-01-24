@@ -17,9 +17,16 @@
   <img src="https://okqiyi.com/wp-content/uploads/2026/01/img_1768395999_711.jpg" width="60%">
 </p>
 
-**Prompt  / 提示词原文:**
+**Prompt / 提示词原文:**
+
+<details>
+<summary><strong>🔻 View & Copy Full Prompt / 点击展开复制完整提示词</strong></summary>
+<br>
 
 ```text
+{
+  "task": "photo_editing",
+  "instruction": "Edit the photo according to the description...",
 {
 "task": "photo_editing",
 "instruction": "Edit the photo according to the description without changing the face in the slightest. The face must remain 100% authentic and identical to the original.",
@@ -154,6 +161,7 @@
 "taken by her boyfriend"
 ]
 }
+
 ```
 ---
 ## 4. Pure Luminous | 清透逆光温柔回眸
