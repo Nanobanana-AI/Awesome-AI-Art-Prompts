@@ -163,6 +163,7 @@
 }
 }
 ```
+</details>
 ---
 ## 4. Pure Luminous | 清透逆光温柔回眸
 
