@@ -71,7 +71,7 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 
 ## 🐼 Nanobanana AI 提示词中文合集
 欢迎来到 **Nanobanana (香蕉) AI 工作室** 的官方开源仓库。
-这里汇集了全网最高质量、经过实测的 AI 绘画提示词，支持 **Midjourney V6, Stable Diffusion, Grok** 等主流模型。
+这里汇集了全网最高质量、经过实测的 AI 绘画提示词，支持 **Midjourney V6, Stable Diffusion,ChatGPT,Grok** 等主流模型。
 
 👉 **访问我们的中文提示词搜索引擎:** [**https://okqiyi.com**](https://okqiyi.com)
 
@@ -82,7 +82,7 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 
 ### 📂 热门绘图资源 (复制即用)
 
-**1. 电影感人像 (Nanobanana / Grok / Midjourney)**
+**1. 电影感人像 (Nanobanana / Grok / Midjourney / ChatGPT/ 豆包)**
 > **描述:** 赛博朋克风格的超写实人像，全息妆容...
 > **关键词:** 8K 分辨率, 体积光, 虚拟摄影.
 >
