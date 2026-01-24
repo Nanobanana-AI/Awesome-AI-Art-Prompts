@@ -163,9 +163,10 @@
 }
 }
 ```
+</details>
 
 ---
-</details>
+
 ## 4. Pure Luminous | 清透逆光温柔回眸
 
 > **Concept Description / 作品说明**<br>
