@@ -7,6 +7,24 @@
 > 🌟 **More Inspiration? Visit:** [**https://okqiyi.com**](https://okqiyi.com)
 
 ---
+## 7. K-Pop Muse & Analog Diary | K-Pop视觉美学四宫格
+Concept Description / 作品说明
+
+
+Nanobanana Pro 模型生成，想创作自然随性的纯欲风生活四宫格，却苦于无法拿捏胶片质感与抓拍瞬间？Nanobanana Pro 模型完美还原 35mm 颗粒与生活化光影，精准复刻清透日常。
+
+
+Concept Description: Struggling to create authentic 2x2 grid life snapshots with a pure desire aesthetic? Nanobanana Pro captures the nostalgic 35mm film grain and cinematic lighting perfectly.
+
+
+<p align="center"> <img src="https://okqiyi.com/wp-content/uploads/2026/01/img_1768036098_460.jpg" width="60%"> </p>
+
+<details> <summary><strong>🔻 View & Copy Full Prompt / 点击展开复制完整提示词</strong></summary>
+A high-resolution 2x2 seamless photo grid collage featuring a young Asian woman with a pure and alluring aesthetic. [Top Left]: POV high-angle shot looking down at her lying on a bed with white sheets, wearing an oversized white shirt, bathed in hazy morning sunlight, dreamy soft focus. [Top Right]: A mirror selfie in a dance studio, sitting on the floor wearing a tight crop top and grey sweatpants, playful wink, mixed lighting with authentic grit. [Bottom Left]: High-angle candid shot of her squatting next to a retro vending machine holding a cold bottle, wearing a short pleated skirt, golden hour sunlight with lens flare. [Bottom Right]: Close-up direct flash photography of her leaning into the lens eating a snack, wearing silk pajamas in a dimly lit room. Overall style: Analog film aesthetic, warm vintage tones, 35mm film grain, photorealistic, cinematic lighting, 8k resolution.Photo ratio 3:4.
+```
+</details>
+   
+---
 ## 6. Dianping Level-Up Specialist | 大众点评 V8 冲级写手
 
 > **Concept Description / 作品说明**<br>
