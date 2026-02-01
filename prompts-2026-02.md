@@ -25,6 +25,7 @@ A futuristic wide shot of a traditional Chinese Lantern Festival blending with c
 ```
 3D Cute IP Character / 3D 盲盒风 (Doubao / 豆包)
 Style: Pop Mart style, high saturation, clean background.
+``text
 A cute 3D chibi character of a girl wearing a yellow hoodie, holding a giant banana, glossy texture, soft studio lighting, C4D render, occlusion render, pastel colors, white background, blind box toy style, 8k resolution --ar 3:4
 ```
 
@@ -32,10 +33,12 @@ A cute 3D chibi character of a girl wearing a yellow hoodie, holding a giant ban
 These prompts generate images so realistic they were rejected by stock photo sites (e.g. Adobe Stock) for being "too similar to real humans". 以下指令生成的图片因“过于逼真”被图库拒收，现开源分享。
 
 Pure Luminous / 清透感人像 (Top Rated 🏆)
+``text
 Portrait of a young Asian woman smiling by the window in morning sunlight, natural beauty, minimal makeup, backlit hair, soft lens flare, lifestyle concept, shot on 35mm film, Fujifilm simulation, high fidelity, 8k --v 6.0 --style raw
 ```
 
 Cinematic Winter / 电影感冬日
+``text
 A girl wearing a black scarf and coat standing in the snow, looking at the camera, snowflakes falling, cinematic color grading, emotional atmosphere, detailed texture of the fabric, bokeh background --ar 4:5
 ```
 
