@@ -53,17 +53,17 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/academic-text-humanizer/)**
 
-**3. Zodiac Love Analyst | 星座恋爱配对专家**
+**3. Personal Talent Excavator & Career Guide | 深度天赋挖掘与生涯规划** 🔥
+> **Task:** Analyze personality traits to discover hidden talents and generate professional career paths.
+> **目标:** 免费体验由 Nanobanana Pro 驱动的深度天赋挖掘，基于心理学为您生成专属职业规划报告。
+>
+> 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/personal-talent-excavator-career-guide/)**
+
+**4. Zodiac Love Analyst | 星座恋爱配对专家**
 > **Task:** Analyze compatibility (e.g., Gemini Female & Aquarius Male) and generate "Cosmic Reports".
 > **目标:** 输入星座性别，一键生成恋爱/婚姻指数及性格深度解析。
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/zodiac-love-analyst/)**
-
-**4. Inspiring Wisdom Book | 励志智慧箴言书**
-> **Task:** Transform daily struggles into profound wisdom and "Golden Quotes".
-> **目标:** 将日常烦恼转化为富有哲理的治愈金句，朋友圈文案神器。
->
-> 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/inspiring-wisdom-book/)**
 
 ---
 
@@ -71,7 +71,7 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 
 ## 🐼 Nanobanana AI 提示词中文合集
 欢迎来到 **Nanobanana (香蕉) AI 工作室** 的官方开源仓库。
-这里汇集了全网最高质量、经过实测的 AI 绘画提示词，支持 **Midjourney V6, Stable Diffusion, ChatGPT, Grok** 等主流模型。
+这里汇集了全网最高质量、经过实测的 AI 绘画提示词，支持 **Midjourney V6, Stable Diffusion, ChatGPT, Grok, 豆包** 等主流模型。
 
 👉 **访问我们的中文提示词搜索引擎:** [**https://okqiyi.com**](https://okqiyi.com)
 
