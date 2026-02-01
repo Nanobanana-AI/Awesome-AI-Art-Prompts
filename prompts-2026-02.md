@@ -22,6 +22,7 @@
 *Logic: High complexity scene description with lighting precision.*
 ```text
 A futuristic wide shot of a traditional Chinese Lantern Festival blending with cyberpunk aesthetics, neon red lanterns floating in the sky, massive holographic dragons weaving through skyscrapers, wet street reflections, cinematic lighting, volumetric fog, shot on 70mm IMAX --ar 16:9
+```
 3D Cute IP Character / 3D 盲盒风 (Doubao / 豆包)
 Style: Pop Mart style, high saturation, clean background.
 A cute 3D chibi character of a girl wearing a yellow hoodie, holding a giant banana, glossy texture, soft studio lighting, C4D render, occlusion render, pastel colors, white background, blind box toy style, 8k resolution --ar 3:4
