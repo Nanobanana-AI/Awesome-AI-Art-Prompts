@@ -46,6 +46,7 @@ A girl wearing a black scarf and coat standing in the snow, looking at the camer
 For E-commerce & Ads | 适用于电商与广告
 
 Luxury Perfume / 高级香水
+``text
 Product photography of a crystal perfume bottle placed on a black marble surface, golden backlight, water splashes frozen in time, high-speed photography, studio lighting, luxurious vibe, advertisement quality --ar 9:16
 
 ```
