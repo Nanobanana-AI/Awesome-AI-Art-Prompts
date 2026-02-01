@@ -23,9 +23,23 @@
 A futuristic view of Shanghai Bund at night, neon red and cyan lighting, massive holographic advertisements of golden bananas floating in the sky, rainy atmosphere, reflection on wet ground, cinematic lighting, shot on Sony A7R IV, 8k resolution --ar 16:9
 The AI Coder / 沉浸式编程 (Grok / MJ)
 A close-up shot of a programmer's hands typing on a mechanical keyboard with glowing RGB backlight, floating code holograms surrounding the monitor, dark room, cozy atmosphere, lo-fi aesthetic, depth of field --ar 3:2
-
 🍌 2. Nanobanana (Gemini) - "The Stock Rejects"
 These prompts generate images so realistic they were rejected by stock photo sites for being "too similar to real humans". 以下指令生成的图片因“过于逼真/同质化”被图库拒收，现开源分享。
 
 Pure Luminous / 清透感人像 (Top Rated 🏆)
 Portrait of a young Asian woman smiling by the window in morning sunlight, natural beauty, minimal makeup, backlit hair, soft lens flare, lifestyle concept, shot on 35mm film, Fujifilm simulation, high fidelity, 8k --v 6.0 --style raw
+```
+
+
+
+
+
+
+🔗 How to Use / 如何使用
+Copy the prompt code above. (复制上方代码)
+
+Paste into Midjourney, Grok, Gemini, or DeepSeek. (粘贴到你的 AI 工具中)
+
+Want More? Visit our official site for 1000+ Free Prompts with visual previews: 👉 https://okqiyi.com
+
+Maintained by Nanobanana Team. If you like this repo, please give us a Star ⭐️
