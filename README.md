@@ -41,27 +41,27 @@ We provide high-quality, tested prompts for **Midjourney, Stable Diffusion, and 
 **Turn your ChatGPT / Gemini / Doubao / DeepSeek into an Expert instantly.**
 **让你的豆包/ChatGPT/Gemini/DeepSeek 秒变行业专家。**
 
-**1. Dianping Level-Up Specialist | 大众点评 V8 冲级写手**
-> **Task:** Generate authentic, 100+ word reviews with sensory details and emotional hooks.
-> **目标:** 生成真实感爆棚的探店点评，助你快速升级 V8 账号。
+**1. Authentic Review Writer | 大众点评/真实点评写手**
+> **Task:** Generate authentic, sensory-rich reviews for restaurants or shops. Best for Yelp, Google Maps, or Dianping level-up.
+> **目标:** 生成真实感爆棚的探店点评，包含感官细节与情绪钩子，助你快速升级账号权重。
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/dianping-level-up-specialist/)**
 
-**2. Academic Text Humanizer | 论文去 AI 味洗稿专家**
-> **Task:** Rewrite AI-generated text to enhance flow and remove "AI patterns" (Turnitin friendly).
-> **目标:** 专治论文 AI 味过重，优化语流，降低查重率。
+**2. Academic Text Humanizer | 论文去 AI 味/洗稿专家**
+> **Task:** Rewrite AI-generated text to enhance flow, vary sentence structure, and remove "AI patterns" (Turnitin friendly).
+> **目标:** 专治论文 AI 味过重，优化语流，降低查重率，让文章读起来像真人写的。
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/academic-text-humanizer/)**
 
 **3. Personal Talent Excavator & Career Guide | 深度天赋挖掘与生涯规划** 🔥
-> **Task:** Analyze personality traits to discover hidden talents and generate professional career paths.
+> **Task:** Analyze personality traits to discover hidden talents and generate professional career paths based on psychology.
 > **目标:** 免费体验由 Nanobanana Pro 驱动的深度天赋挖掘，基于心理学为您生成专属职业规划报告。
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/personal-talent-excavator-career-guide/)**
 
 **4. Zodiac Love Analyst | 星座恋爱配对专家**
-> **Task:** Analyze compatibility (e.g., Gemini Female & Aquarius Male) and generate "Cosmic Reports".
-> **目标:** 输入星座性别，一键生成恋爱/婚姻指数及性格深度解析。
+> **Task:** Analyze compatibility (e.g., Gemini Female & Aquarius Male) and generate "Cosmic Reports" with relationship advice.
+> **目标:** 输入星座性别，一键生成恋爱/婚姻指数及性格深度解析，各种“相爱相杀”一看便知。
 >
 > 🔗 **[Get Instruction / 获取指令](https://okqiyi.com/zodiac-love-analyst/)**
 
