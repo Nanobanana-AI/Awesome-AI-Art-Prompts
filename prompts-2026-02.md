@@ -60,15 +60,6 @@ We tested **Doubao (China), Grok (xAI), Gemini (Google), and ChatGPT** in a real
 Found a new "AI Hallucination" or a cool prompt logic? Feel free to submit a PR!
 *Maintained by Nanobanana Team. If you like this repo, please give us a Star 🌟*
 
-```
-
----
-
-```
-
-
-
-
 
 
 ## 🔗 How to Use / 如何使用
