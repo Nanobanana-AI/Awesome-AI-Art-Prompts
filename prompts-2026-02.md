@@ -1,13 +1,10 @@
-# 🍌 Nanobanana Featured Prompts Collection | 精选提示词库 2026.02
 
-> **Disclaimer & Credits / 说明与致谢:**
-> The prompts below are curated from the open-source community and optimized by Nanobanana Studio. While the prompts serve as references, all images displayed on our official site are generated and verified to ensure quality.
-> 本库提示词源于网络收集并经过 Nanobanana 调优/二创。所有提示词均经过实测，100% 免费开源。
->
-> 🌟 **Full Library / 完整图库 (One-Click Copy):** [https://okqiyi.com](https://okqiyi.com)
 
----
+### 📋 终极复制版 (Direct Copy)
 
+请点击代码块右上角的 **“Copy”** 按钮，然后直接覆盖您 GitHub 文件里的所有内容：
+
+```markdown
 # 📅 Nanobanana Prompts - February 2026 Edition
 
 > **Editor's Note:** This month, we focused on solving "Physics Hallucinations" in AI generation and benchmarking the latest Voice Models. No fillers, just fixes.
@@ -36,12 +33,45 @@ holding iPhone 16 Pro Max with one hand,
 distortion confined to mirror edges, center focus, 
 hyper-realistic skin texture, cinematic night street lighting, neon ambiance.
 --no melted fingers, chicken hands, distorted phone body
+
 ```
-👉 Deep Dive: Why does AI fail at mirrors? Read our full technical breakdown:Doubao vs. Nanobanana: Fixing the Horror Movie Selfie🗣️ 2. [Benchmark] AI Voice Chat: Who is the King?Test Date: Feb 3, 2026 (Li Chun) | Devices: iPhone 15 Pro MaxWe tested Doubao (China), Grok (xAI), Gemini (Google), and ChatGPT in a real-time "Voice Call" battle.The Shibboleth: Can they pronounce the Beijing dialect word "大栅栏" (Dàshílànr)?🏆 The Verdict (评测结论)ModelRoleProsCons🇨🇳 DoubaoThe Native Speaker🥇 100/100 Emotion. Sounds exactly like a real human.🧠 Goldfish memory (forgets context).👽 GrokThe Funny Partner🥈 High EQ. Very funny, learns dialects fast.👂 Hard of hearing (needs clear input).🤖 GeminiThe Smart Robot🥉 Best Logic. Remembers complex context perfectly.🗣️ Robotic voice (sounds like TTS).🧠 ChatGPTThe ProfessorStable standard performance.🐢 Stubborn (refuses to learn dialect).👉 Listen to the Samples: Which one sounds best? Check the full report:Doubao vs. Grok vs. Gemini vs. ChatGPT: The 2026 Voice Battle📢 ContributingFound a new "AI Hallucination" or a cool prompt logic? Feel free to submit a PR!
 
+> **👉 Deep Dive:** Why does AI fail at mirrors? Read our full technical breakdown:
+> **[Doubao vs. Nanobanana: Fixing the Horror Movie Selfie](https://okqiyi.com/convex-mirror-selfie-and-bunny-ears/)**
 
+---
 
+## 🗣️ 2. [Benchmark] AI Voice Chat: Who is the King?
 
+**Test Date:** Feb 3, 2026 (Li Chun) | **Devices:** iPhone 15 Pro Max
+
+We tested **Doubao (China), Grok (xAI), Gemini (Google), and ChatGPT** in a real-time "Voice Call" battle.
+**The Shibboleth:** Can they pronounce the Beijing dialect word "大栅栏" (Dàshílànr)?
+
+### 🏆 The Verdict (评测结论)
+
+| Model | Role | Pros | Cons |
+| --- | --- | --- | --- |
+| **🇨🇳 Doubao** | **The Native Speaker** | 🥇 **100/100 Emotion.** Sounds exactly like a real human. | 🧠 Goldfish memory (forgets context). |
+| **👽 Grok** | **The Funny Partner** | 🥈 **High EQ.** Very funny, learns dialects fast. | 👂 Hard of hearing (needs clear input). |
+| **🤖 Gemini** | **The Smart Robot** | 🥉 **Best Logic.** Remembers complex context perfectly. | 🗣️ Robotic voice (sounds like TTS). |
+| **🧠 ChatGPT** | **The Professor** | Stable standard performance. | 🐢 Stubborn (refuses to learn dialect). |
+
+> **👉 Listen to the Samples:** Which one sounds best? Check the full report:
+> **[Doubao vs. Grok vs. Gemini vs. ChatGPT: The 2026 Voice Battle](https://okqiyi.com/ai-voice-chat-comparison-2026/)**
+
+---
+
+## 📢 Contributing
+
+Found a new "AI Hallucination" or a cool prompt logic? Feel free to submit a PR!
+*Maintained by Nanobanana Team. If you like this repo, please give us a Star 🌟*
+
+```
+
+---
+
+```
 
 
 
