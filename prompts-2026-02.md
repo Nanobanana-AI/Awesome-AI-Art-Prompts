@@ -8,70 +8,45 @@
 
 ---
 
-## 📢 Changelog / 更新日志 (2026.02)
-* **New:** Added **DeepSeek R1** & **Doubao (豆包)** optimized prompts (新增国产双雄适配指令).
-* **Highlighted:** "Stock Photo Rejects" Collection - Realistic portraits rejected by Adobe Stock for being "too real".
-* **Updated:** Nanobanana (Gemini) Commercial Photography styles.
+# 📅 Nanobanana Prompts - February 2026 Edition
+
+> **Editor's Note:** This month, we focused on solving "Physics Hallucinations" in AI generation and benchmarking the latest Voice Models. No fillers, just fixes.
+> **编者按:** 本月我们专注于解决 AI 生成中的“物理幻觉”问题（如镜面畸变），并对最新的中美语音模型进行了实测。不整虚的，只上干货。
 
 ---
 
-## 🇨🇳 1. DeepSeek & Doubao Special (国产大模型专区)
-*Optimized for Chinese semantics & Logic | 专为 DeepSeek 逻辑与豆包语义优化*
+## 🛠️ 1. [Fix] The "Convex Mirror Selfie" Solution
+**Status:** ✅ Solved | **Engine:** Nanobanana Pro Logic
 
-### Cyberpunk Festival / 赛博灯会 (DeepSeek R1)
-*Logic: High complexity scene description with lighting precision.*
+### 🚨 The Problem (翻车痛点)
+When generating "Bunny Ears + Convex Mirror Selfies" (cute trend), generic models like Midjourney/Doubao often fail:
+* **"Chicken Hands"**: Fingers become elongated and twisted.
+* **Melted Phones**: The phone blends into the hand or face.
+* **Wrong Distortion**: The AI distorts the *object* instead of the *reflection*.
 
+### 🧪 The Fix (核心修复逻辑)
+We introduced **"Anatomy Lock" (解剖学锁定)** and **"Ray Tracing Logic" (光线追踪)** to separate the subject from the mirror curvature.
+
+#### 🚀 Copy This Prompt (复制指令):
+```markdown
+--ar 3:4 --v 6.1 --style raw
+[Subject, e.g., A cute girl with bunny ears] taking a selfie in a traffic convex mirror, 
+holding iPhone 16 Pro Max with one hand,
+(Nanobanana Logic Applied: Anatomy Lock, Ray Tracing Reflection),
+distortion confined to mirror edges, center focus, 
+hyper-realistic skin texture, cinematic night street lighting, neon ambiance.
+--no melted fingers, chicken hands, distorted phone body
 ```
+👉 Deep Dive: Why does AI fail at mirrors? Read our full technical breakdown:Doubao vs. Nanobanana: Fixing the Horror Movie Selfie🗣️ 2. [Benchmark] AI Voice Chat: Who is the King?Test Date: Feb 3, 2026 (Li Chun) | Devices: iPhone 15 Pro MaxWe tested Doubao (China), Grok (xAI), Gemini (Google), and ChatGPT in a real-time "Voice Call" battle.The Shibboleth: Can they pronounce the Beijing dialect word "大栅栏" (Dàshílànr)?🏆 The Verdict (评测结论)ModelRoleProsCons🇨🇳 DoubaoThe Native Speaker🥇 100/100 Emotion. Sounds exactly like a real human.🧠 Goldfish memory (forgets context).👽 GrokThe Funny Partner🥈 High EQ. Very funny, learns dialects fast.👂 Hard of hearing (needs clear input).🤖 GeminiThe Smart Robot🥉 Best Logic. Remembers complex context perfectly.🗣️ Robotic voice (sounds like TTS).🧠 ChatGPTThe ProfessorStable standard performance.🐢 Stubborn (refuses to learn dialect).👉 Listen to the Samples: Which one sounds best? Check the full report:Doubao vs. Grok vs. Gemini vs. ChatGPT: The 2026 Voice Battle📢 ContributingFound a new "AI Hallucination" or a cool prompt logic? Feel free to submit a PR!
 
-A futuristic wide shot of a traditional Chinese Lantern Festival blending with cyberpunk aesthetics, neon red lanterns floating in the sky, massive holographic dragons weaving through skyscrapers, wet street reflections, cinematic lighting, volumetric fog, shot on 70mm IMAX --ar 16:9
 
-```
 
-### 3D Cute IP Character / 3D 盲盒风 (Doubao / 豆包)
-*Style: Pop Mart style, high saturation, clean background.*
 
-```
 
-A cute 3D chibi character of a girl wearing a yellow hoodie, holding a giant banana, glossy texture, soft studio lighting, C4D render, occlusion render, pastel colors, white background, blind box toy style, 8k resolution --ar 3:4
 
-```
 
----
 
-## 🍌 2. Nanobanana (Gemini) - "The Stock Rejects"
-*These prompts generate images so realistic they were rejected by stock photo sites (e.g. Adobe Stock) for being "too similar to real humans".*
-*以下指令生成的图片因“过于逼真”被图库拒收，现开源分享。*
 
-### Pure Luminous / 清透感人像 (Top Rated 🏆)
-
-```
-
-Portrait of a young Asian woman smiling by the window in morning sunlight, natural beauty, minimal makeup, backlit hair, soft lens flare, lifestyle concept, shot on 35mm film, Fujifilm simulation, high fidelity, 8k --v 6.0 --style raw
-
-```
-
-### Cinematic Winter / 电影感冬日
-
-```
-
-A girl wearing a black scarf and coat standing in the snow, looking at the camera, snowflakes falling, cinematic color grading, emotional atmosphere, detailed texture of the fabric, bokeh background --ar 4:5
-
-```
-
----
-
-## 🛍️ 3. Commercial Product Photography / 商业摄影
-*For E-commerce & Ads | 适用于电商与广告*
-
-### Luxury Perfume / 高级香水
-
-```
-
-Product photography of a crystal perfume bottle placed on a black marble surface, golden backlight, water splashes frozen in time, high-speed photography, studio lighting, luxurious vibe, advertisement quality --ar 9:16
-
-```
-
----
 
 ## 🔗 How to Use / 如何使用
 1.  **Copy** the prompt code above. (复制上方代码)
