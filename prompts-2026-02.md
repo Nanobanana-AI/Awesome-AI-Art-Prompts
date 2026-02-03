@@ -1,10 +1,3 @@
-
-
-### 📋 终极复制版 (Direct Copy)
-
-请点击代码块右上角的 **“Copy”** 按钮，然后直接覆盖您 GitHub 文件里的所有内容：
-
-```markdown
 # 📅 Nanobanana Prompts - February 2026 Edition
 
 > **Editor's Note:** This month, we focused on solving "Physics Hallucinations" in AI generation and benchmarking the latest Voice Models. No fillers, just fixes.
